@@ -12,6 +12,7 @@ options.Configuration = builder.Configuration["AZURE_REDIS_CONNECTIONSTRING"];
 options.InstanceName = "SampleInstance";
 });
 
+//test error
 //test force push main
 // Add services to the container.
 builder.Services.AddControllersWithViews();
